@@ -1,0 +1,17 @@
+[{
+    "glossary": {
+      "title": "example glossary",
+      "GlossDiv": {
+        "titl": "Tuesday"
+      }
+    }
+  },
+  {
+    "glossary": {
+      "title": "example4 glossary",
+      "GlossDiv": {
+        "titl": ""
+      }
+    }
+  }
+  ]
